@@ -115,7 +115,7 @@ ul {
 	vertical-align: middle;
 	text-align: center;
 	color: #000000;
-	background-color: #FFCE00;
+	background-color: #00C389;
 	border: 1px solid #005596;
 	border-top: 2px solid #58585B;
 	border-bottom-left-radius: 6px;
@@ -126,8 +126,8 @@ ul {
 	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
-	font-family: Arial, Helvetica, sans-serif; 
-	font-size: 14px; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
 	text-align: center;
 }
 
@@ -135,7 +135,7 @@ ul {
 	width: 234px;
 	height: 350px;
 }
-	
+
 #picture-l {
 	width: 420px;
 	margin-right: auto;
@@ -200,7 +200,7 @@ ul {
 	margin-right: auto;
 	margin-left: auto;
 }
-	
+
 #main-center {
 	font-family:Arial, Helvetica, sans-serif;
 	text-align: center;
